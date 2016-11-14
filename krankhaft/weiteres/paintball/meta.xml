@@ -1,0 +1,6 @@
+<meta>
+    <info name="paintball" author="Vandam" description="skin" version="1.1" type="script" />
+    <script src="server.lua" type="server" />
+    <script src="pb_client.lua" type="client" />
+	<map src="paintballhalle.map" />
+</meta>

@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main">
+    <object id="object (vgnpolicecparkug) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="7244" scale="1" dimension="0" posX="-2436.9602050781" posY="-2528.7446289063" posZ="20.302131652832" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (wall1) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="13647" scale="1" dimension="0" posX="-2402.0192871094" posY="-2502.9304199219" posZ="21.895881652832" rotX="0" rotY="0" rotZ="350"></object>
+    <object id="object (wall1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="13647" scale="1" dimension="0" posX="-2396.1938476563" posY="-2503.8415527344" posZ="24.145881652832" rotX="0" rotY="0" rotZ="349.99694824219"></object>
+    <object id="object (wall1) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="13647" scale="1" dimension="0" posX="-2399.0590820313" posY="-2503.2299804688" posZ="26.395881652832" rotX="0" rotY="0" rotZ="349.99694824219"></object>
+    <object id="object (vgnpolicecparkug) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="7244" scale="1" dimension="0" posX="-2335.6999511719" posY="-2564.1000976563" posZ="17.700000762939" rotX="0" rotY="357" rotZ="180"></object>
+    <object id="object (wall1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="13647" scale="1" dimension="0" posX="-2373.6000976563" posY="-2591.1000976563" posZ="20.700000762939" rotX="0" rotY="3" rotZ="349"></object>
+    <object id="object (wall1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="13647" scale="1" dimension="0" posX="-2375.8999023438" posY="-2591" posZ="23.39999961853" rotX="0" rotY="2.999267578125" rotZ="348.99719238281"></object>
+    <object id="object (wall1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="13647" scale="1" dimension="0" posX="-2373.6000976563" posY="-2591.6000976563" posZ="25.5" rotX="0" rotY="2.999267578125" rotZ="348.99719238281"></object>
+</map>
