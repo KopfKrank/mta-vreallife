@@ -9,6 +9,6 @@ den [Gamemode] Ordner)
 4. Script in der Serverconfig und der Acl einbinden (Resource heißt vio)
 5. Datenbank in Script einbinden (dazu [vio]/vio/mysql/mysql_start.lua editieren. Achtung Beide DBs 
 gleich nennen (Datenbaknnamen nehmen) )
-6. Server starten
+6. Server starten.
 
 Videotutorial: http://www.youtube.com/watch?feature=player_embedded&v=3qFFc35Kglw#at=28
