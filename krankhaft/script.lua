@@ -1,4 +1,4 @@
-﻿setServerPassword ( "2912" )
+﻿setServerPassword ( "" )
 
 function mainTimer ()
 
